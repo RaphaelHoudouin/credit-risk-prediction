@@ -109,7 +109,7 @@ To get started with this project locally, you’ll need Python 3.8+ installed on
 3. **Prediction Results:** The app will display the predictions dynamically with explanations of each metric.
 
 ### Configuration:
-You can modify the `Artifacts/` directory to point to your own trained models, encoders, and scaler files. Ensure that the models and encoders are trained and saved in compatible formats (e.g., `.pkl`).
+You can modify the `artifacts/` directory to point to your own trained models, encoders, and scaler files. Ensure that the models and encoders are trained and saved in compatible formats (e.g., `.pkl`).
 
 ## Contributing
 
@@ -134,7 +134,7 @@ We welcome contributions to improve this project! Whether you are fixing bugs, a
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the GNU General Public License (GPL). See LICENSE for more information.
 
 ## Contact
 

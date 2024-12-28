@@ -90,3 +90,11 @@ if st.button('Predict'):
     st.success(f"Probabilities: {default_probabilities:.2%}")
     st.success(f"Credit Score: {credit_score}")
     st.success(f"Rating: {rating}")
+
+# Credits at the bottom of the main page
+st.markdown("""
+    ---
+    **Developed by [rhoudouin](https://github.com/rhoudouin).**  
+    For inquiries or feedback, feel free to visit the GitHub profile.
+""")
+

@@ -17,9 +17,9 @@ Leveraging repository presents a Loan and Credit Risk Analysis Tool developed us
 
 By harnessing logistic regression and advanced feature engineering techniques, this app delivers highly accurate and interpretable predictions for:
 
-Probability of Loan Default
-Credit Score
-Risk Rating (Poor, Average, Good, Excellent)
+- Probability of Loan Default
+- Credit Score
+- Risk Rating (Poor, Average, Good, Excellent)
 
 
 ### Live App

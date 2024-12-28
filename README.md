@@ -1,4 +1,4 @@
-#  Loan and Credit Risk Prediction
+#  Credit Risk Prediction
 
 ## Table of Contents
 - [About The Project](#about-the-project)
@@ -23,7 +23,7 @@ By harnessing logistic regression and advanced feature engineering techniques, t
 
 
 ### Live App
-Explore the app via this URL: [Loan and Credit Risk Analysis](https://credit-risk-prediction-gtgpw42rnahzrqrgmxqj4b.streamlit.app/)
+Explore the app via this URL: [Credit Risk Analyzer](https://credit-risk-prediction-gtgpw42rnahzrqrgmxqj4b.streamlit.app/)
 
 ## Features
 - User-friendly input forms.

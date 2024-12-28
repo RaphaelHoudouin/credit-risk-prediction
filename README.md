@@ -1,4 +1,4 @@
-# Loan Default Risk Prediction
+#  Loan and Credit Risk Prediction
 
 ## Table of Contents
 - [About The Project](#about-the-project)

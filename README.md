@@ -23,7 +23,7 @@ Risk Rating (Poor, Average, Good, Excellent)
 
 
 ### Live App
-Explore the app via this URL: [Loan and Credit Risk Analysis App](https://ricky-ml-risk-model-prediction.streamlit.app/)
+Explore the app via this URL: [Loan and Credit Risk Analysis App](https://credit-risk-prediction-gtgpw42rnahzrqrgmxqj4b.streamlit.app/)
 
 ## Features
 - User-friendly input forms.

@@ -142,16 +142,16 @@ We welcome contributions to improve this project! Whether you are fixing bugs, a
 
 Distributed under the GNU General Public License (GPL). See LICENSE for more information.
 
-## Contact
-
-For any questions or feedback, please contact the project maintainer: **rhoudouin** (GitHub: [rhoudouin](https://github.com/rhoudouin)).
-
 ## Acknowledgements
 
 - **Scikit-learn:** For providing machine learning algorithms and utilities.
 - **Streamlit:** For creating the interactive web application.
 - **NumPy & Pandas:** For preprocessing and numerical computation.
 - **Joblib:** For model serialization and deployment.
+
+## Contact
+
+For any questions or feedback, please contact the project maintainer: **rhoudouin** (GitHub: [rhoudouin](https://github.com/rhoudouin)).
 
 
 

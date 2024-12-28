@@ -89,6 +89,8 @@ if st.button('Predict'):
     default_probabilities, credit_score, rating = predict(input_data)
     st.success(f"Probabilities (Loan Default): {default_probabilities:.2%}")
     st.success(f"Credit Score: {credit_score}")
+    st.info(f"Rating: {rating} (Scale: Poor to Excellent)")
+
     st.success(f"Rating (Poor to Excellent): {rating}")
 
 # Credits at the bottom of the main page

@@ -3,7 +3,7 @@ import numpy as np
 import joblib
 from joblib import load
 # Load the pre-trained model and any associated data
-save_model = load("artifact/save_model.joblib")
+save_model = load("artifacts/save_model.joblib")
 scaler = save_model['scaler']
 best_model = save_model['best_model']
 feature = save_model['feature']

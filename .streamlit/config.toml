@@ -1,0 +1,6 @@
+[theme]
+base="dark"  # Dark Mode activé
+primaryColor="purple"
+backgroundColor="#1e1e1e"
+secondaryBackgroundColor="#2e2e2e"
+textColor="#ffffff"

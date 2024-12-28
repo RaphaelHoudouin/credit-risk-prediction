@@ -4,7 +4,7 @@ import numpy as np
 from predict_helper import predict
 from predict_helper import prepare_training_model
 # Set up the layout with 3 columns per row
-st.title("Loan and Credit Analysis")
+st.title("Credit Risk Analyzer")
 
 # Target ratio
 target_ratio = 4.5
@@ -87,7 +87,7 @@ input_data = {
 
 if st.button('Predict'):
     default_probabilities, credit_score, rating = predict(input_data)
-    st.success(f"Probabilities: {default_probabilities:.2%}")
+    st.success(f"Probabilities (Loan Default): {default_probabilities:.2%}")
     st.success(f"Credit Score: {credit_score}")
     st.success(f"Rating: {rating}")
 

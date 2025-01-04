@@ -29,7 +29,7 @@ Explore the app via this URL: [Credit Risk Analyzer](https://raphaelhoudouin-cre
 - User-friendly input forms.
 - Interactive and easy-to-use interface.
 
-![Streamlit App Screenshot](streamlit/streamlit_screenshot.png)
+![Streamlit App Screenshot](https://github.com/RaphaelHoudouin/credit-risk-prediction/blob/main/screenshots/credit_risk_prediction_app_screenshot.png)
 
 ## Key Features
 

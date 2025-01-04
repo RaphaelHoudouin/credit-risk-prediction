@@ -23,7 +23,7 @@ By harnessing logistic regression and advanced feature engineering techniques, t
 
 
 ### Live App
-Explore the app via this URL: [Credit Risk Analyzer](https://rhoudouin-credit-risk-prediction.streamlit.app/).
+Explore the app via this URL: [Credit Risk Analyzer](https://raphaelhoudouin-credit-risk-prediction.streamlit.app/).
 
 ## Features
 - User-friendly input forms.

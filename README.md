@@ -29,7 +29,7 @@ Explore the app via this URL: [Credit Risk Analyzer](https://raphaelhoudouin-cre
 - User-friendly input forms.
 - Interactive and easy-to-use interface.
 
-![Streamlit App Screenshot](https://github.com/RaphaelHoudouin/credit-risk-prediction/blob/main/screenshots/credit_risk_prediction_app_screenshot.png)
+![Streamlit App Screenshot](https://github.com/raphaelhoudouin/credit-risk-prediction/blob/main/screenshots/credit_risk_prediction_app_screenshot.png)
 
 ## Key Features
 
@@ -151,8 +151,8 @@ Distributed under the GNU General Public License (GPL). See LICENSE for more inf
 
 ## Contact
 
-For any questions or feedback, please contact the project maintainer: **RaphaelHoudouin**.  
-GitHub: [RaphaelHoudouin](https://github.com/RaphaelHoudouin).
+For any questions or feedback, please contact the project maintainer: **raphaelhoudouin**.  
+GitHub: [raphaeloudohuin](https://github.com/raphaelHoudouin).
 
 
 
